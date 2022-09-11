@@ -1,6 +1,5 @@
 # 广州某高校经典诵读脚本
 
-- 根据 [LihaoLikeOrangeJuice](https://github.com/LihaoLikeOrangeJuice/clockIn_gzhu) 的项目进行修改
 - 本项目很可能会违反 Github 的 [TOS](https://docs.github.com/cn/site-policy/github-terms/github-terms-of-service)
   ，鉴于此，请达到需要的分数后请自行停止 Actions 或删除分支项目
 - 仅用作学习交流，或许会因为不可抗力删除项目，请勿过分依赖，请自行承担任何风险和后果
