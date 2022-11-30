@@ -11,7 +11,7 @@
 
 ## 使用方法
 
-1. 不会设置 Actions secrets 请参考[此项目](https://github.com/LihaoLikeOrangeJuice/clockIn_gzhu)
+1. 设置 Actions secrets
 2. 抓取该小程序的 key 参数，在 Actions secrets 添加 `KEY` 参数
 3. 推送可以使用
     - [pushplus](https://www.pushplus.plus)，在 Actions secrets 添加 `TOKEN` 参数
